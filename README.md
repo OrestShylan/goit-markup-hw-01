@@ -1,1 +1,2 @@
-# goit-markup-hw-01
+# goit-markup-hw-08
+ДЗ-8 Адаптивная верстка
